@@ -1,0 +1,43 @@
+in_hvac_system_type,avg(consumption)
+Residential AC with residential forced air furnace,84867.60859822658
+DOAS with VRF,101993.27988451935
+Water source heat pumps with ground source heat pump,157314.1930861072
+PSZ-AC with no heat,223186.42246586934
+Gas unit heaters,250904.5210866097
+PSZ-AC with gas unit heaters,263273.98584561504
+Forced air furnace,264288.3445481283
+Residential AC with no heat,310182.6685393257
+PSZ-HP,356998.6969511877
+PSZ-AC with gas coil,385255.66097276664
+Baseboard electric,401216.6120474407
+Baseboard gas boiler,421510.9709867874
+PVAV with gas heat with electric reheat,483948.7600726364
+Baseboard district hot water,487085.7014669166
+PTAC with gas coil,520642.4424643379
+PSZ-AC with gas boiler,543100.1311196127
+PTAC with no heat,607005.5657468981
+PSZ-AC with baseboard gas boiler,623654.3849793023
+PSZ-AC with electric coil,631471.075080315
+PTAC with baseboard district hot water,768826.8882646695
+PTAC with baseboard electric,775311.107050202
+PSZ-AC with baseboard electric,861462.5808329479
+PTAC with gas boiler,989056.7384519348
+PTAC with baseboard gas boiler,1095673.979006128
+DOAS with fan coil chiller with boiler,1246770.6081683612
+VAV air-cooled chiller with gas boiler reheat,1295738.189174527
+PTHP,1393735.7280671885
+Fan coil district chilled water with district hot water,1504118.0048377027
+VAV district chilled water with district hot water reheat,1561719.3340913146
+PVAV with gas boiler reheat,1619856.6386510914
+Fan coil air-cooled chiller with boiler,1633198.1119682486
+Fan coil chiller with district hot water,1715174.8897211824
+VAV chiller with gas boiler reheat,1779594.6855998344
+PVAV with PFP boxes,1787827.528548873
+VAV chiller with district hot water reheat,1894334.1058052436
+Water source heat pumps cooling tower with boiler,1942231.9616104867
+Fan coil chiller with boiler,2048770.3388125957
+PSZ-AC with district hot water,2410528.911126716
+DOAS with water source heat pumps cooling tower with boiler,2542696.1103308345
+PTAC with electric coil,2546527.424526159
+VAV air-cooled chiller with PFP boxes,2718976.8899986125
+VAV chiller with PFP boxes,2918889.8506968324
